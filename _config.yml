@@ -2,3 +2,5 @@ theme: minima
 title: Testing page
 author: Probably Josh
 description: Just a test page for now, but stay tuned.
+minima:
+  skin: dark
